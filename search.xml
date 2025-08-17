@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/2025/08/17/test/"/>
+      <url>/2025/08/17/test/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的测试文章"><a href="#这是我的测试文章" class="headerlink" title="这是我的测试文章"></a>这是我的测试文章</h2><p><img src="/./assets/image-20250708142738907.png" alt="image-20250708142738907"></p><p><img src="/./assets/image-20250708143108901.png" alt="image-20250708143108901"></p><p><img src="/./assets/image-20250708144923391.png" alt="image-20250708144923391"></p><ul><li><p>实体 user.Java</p></li><li><p>mapper包</p><p>注解@Mapper -&gt; UserMapper接口</p><p>注解@Select(“SQL语句 #{参数}”)-&gt; 抽象方法(参数)</p></li><li><p>service包 UserService接口</p><p>service.impl包 注解Service-&gt;UserServiceImpl接口实现类，注入UserMapper对象（加@Autowired注解），重写方法</p></li><li><p>controller包  @RestController-&gt;UserController类</p><p>注入UserService对象（@AutoWired注解），方法添加@RequestMapping（“&#x2F;指定映射路径”）</p></li></ul><p>sprintboot默认扫描启动类所在包及其子包</p><p>config包 存放配置，配置类上加@configuration注解，配置类中注入对象方法前加@Bean</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

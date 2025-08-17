@@ -1,0 +1,54 @@
+/* Gitee 图标 */
+.icon-gitee {
+    background-image: url('/css/icons/gitee.svg');
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* Codeforces 图标 */
+.icon-codeforces {
+    background-image: url('/css/icons/codeforces.svg');
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* Bilibili 图标（如果不想用 Font Awesome 的 fab fa-bilibili） */
+.icon-bilibili {
+    background-image: url('/css/icons/bilibili.svg');
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* QQ 图标（如果不想用 Font Awesome 的 fab fa-qq） */
+.icon-qq {
+    background-image: url('/css/icons/QQ.svg');
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* 微信图标（如果不想用 Font Awesome 的 fab fa-weixin） */
+.icon-weixin {
+    background-image: url('/css/icons/weixin.svg');
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
